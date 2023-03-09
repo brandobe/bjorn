@@ -4,7 +4,7 @@ export const resources = {
   en: {
     translation: {
       Work: 'Work',
-      Studio: 'The studio',
+      Studio: 'The Studio',
 
       BackToWork: 'Back to Work',
 
@@ -88,12 +88,12 @@ export const resources = {
   nl: {
     translation: {
       Work: 'Werk',
-      Studio: 'de Studio',
+      Studio: 'De Studio',
 
-      BackToWork: 'Terug aan het werk',
+      BackToWork: 'Terug',
 
       all: 'Alles',
-      retail: 'Winkel',
+      retail: 'Retail',
       hospitality: 'Horeca',
       'Public space': 'Publieke plaats',
       private: 'Privé',
@@ -107,11 +107,11 @@ export const resources = {
 
       Year: 'Jaar',
       Client: 'Klant',
-      Location: 'Plaats',
-      Size: 'Grote',
+      Location: 'Locatie',
+      Size: 'Grootte',
       Status: 'Status',
-      'In Progress': 'In de maak',
-      Completed: 'Afgewerkt',
+      'In Progress': 'In uitvoering',
+      Completed: 'Voltooid',
       Photography: 'Fotografie',
 
       For: 'Voor',
